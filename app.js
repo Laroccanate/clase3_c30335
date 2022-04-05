@@ -1,3 +1,6 @@
+/*Larocca Natanael c30335*/
+
+
 /*EJERCICIOS OPCIONALES*/
 /*Pedir número mediante prompt y sumarle otro número en cada repetición,
 realizando una salida por cada resultado*/
